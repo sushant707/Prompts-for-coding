@@ -1,4 +1,4 @@
-create this page using react js and use Tailwind css here is my html code and image i want to same this like and Import the images at the top of my component file. and make sure is also responsive :-
+Generate this page using react js and use Tailwind css here is my html code and image i want to same this like and Import the images at the top of my component file. and make sure is also responsive :-
 
 
 ### Can you give me a best prompts for coding and I am a web developer and I working on react js and tailwind css so give me a best prompts (examples)
