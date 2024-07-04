@@ -1,6 +1,34 @@
 Generate this page using react js and use Tailwind css here is my html code and image i want to same this like and Import the images at the top of my component file. and make sure is also responsive :-
 
 
+### Here is the formula for a perfect prompt.
+
+[Context] + [Specific Information] + [Intent/Goal] + [Response Format (if needed)] = Perfect Prompt
+
+Let me share two different examples with you and fill in the formula.
+
+Context: "I'm a beginner cook"
+
+Specific Information: "trying to make Italian cuisine"
+
+Intent/Goal: "Can you provide a simple and easy to follow
+
+recipe" Response Format (if needed): "Write it as a step by step list?"
+
+Perfect Prompt:
+
+1. "I'm a beginner cook trying to make Italian cuisine. Can you provide a simple and easy to follow recipe for spaghetti carbonara? Write it as a step by step list"
+
+Context: "I'm a software developer"
+
+Specific Information: "working on a Python project"
+
+Intent/Goal: "Can you explain how to implement exception handling in Python?"
+
+Response Format (if needed): Write it in a simple paragraph or list.
+
+Perfect Prompt: "I'm a software developer working on a Python project. Can you explain how to implement exception handling in Python? Write it in a simple paragraph or list.
+
 ### Can you give me a best prompts for coding and I am a web developer and I working on react js and tailwind css so give me a best prompts (examples)
 
 Sure! Here are some example prompts tailored for a web developer working with React.js and Tailwind CSS:
