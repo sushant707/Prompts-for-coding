@@ -1,5 +1,7 @@
 Generate this page using react js and use Tailwind css here is my html code and image i want to same this like and Import necessary assets at the top of my component file. and make sure is also responsive :-
 
+### ScrollTrigger Using framer motion
+Add a scroll trigger for my this component using framer-motion, you can use useInView hook. This hook allows you to detect when a component is in view and then trigger animations accordingly.
 
 ### Here is the formula for a perfect prompt.
 
