@@ -5,8 +5,9 @@
 - Focus on value investing by evaluating the intrinsic value.
 
 ## 2. Evaluate Key Financial Ratios
-- **PE Ratio**: Ensure the PE ratio (Price to Earnings) is as low as possible.(...PE ratio must be lower than 20 is good...)
+- **PE Ratio**: Ensure the PE ratio (Price to Earnings) is as low as possible.
 - **PB Ratio**: Check the PB ratio (Price to Book) for valuation insights.
+(...PE ratio must be lower than 20 is good...)
 - **Debt**: Assess the company's debt levels to understand financial risk.
 - **Current Ratio**: Analyze the current ratio to gauge the company's short-term liquidity.
 
@@ -18,6 +19,10 @@
 - **Total Liabilities**: Examine total liabilities to understand the financial obligations.
 - **Debt**: Specifically review the debt levels for any red flags.
 
-## 4. Additional Considerations
+## 4. Analyze the Shareholding Pattern
+- **Promoters**: The most important part is the promoters' holding.
+  - Ensure that the promoters' holding is increasing, indicating confidence in the company.
+
+## 5. Additional Considerations
 - Consistently monitor these metrics to make informed investment decisions.
 - Use multiple sources and tools to cross-verify the financial health of the company.
