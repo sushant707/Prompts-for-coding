@@ -5,7 +5,7 @@
 - Focus on value investing by evaluating the intrinsic value.
 
 ## 2. Evaluate Key Financial Ratios
-- **PE Ratio**: Ensure the PE ratio (Price to Earnings) is as low as possible.
+- **PE Ratio**: Ensure the PE ratio (Price to Earnings) is as low as possible.(...PE ratio must be lower than 20 is good...)
 - **PB Ratio**: Check the PB ratio (Price to Book) for valuation insights.
 - **Debt**: Assess the company's debt levels to understand financial risk.
 - **Current Ratio**: Analyze the current ratio to gauge the company's short-term liquidity.
