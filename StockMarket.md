@@ -19,7 +19,7 @@
 - **Total Liabilities**: Examine total liabilities to understand the financial obligations.
 - **Debt**: Specifically review the debt levels for any red flags.
 
-## 4. Analyze the Shareholding Pattern
+## 4. Analyze the Shareholding Pattern ... THIS IS A VERY PRO TIP ...
 - **Promoters**: The most important part is the promoters' holding.
   - Ensure that the promoters' holding is increasing, indicating confidence in the company.
 - **Mutual Fund**:
