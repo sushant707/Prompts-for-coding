@@ -22,6 +22,8 @@
 ## 4. Analyze the Shareholding Pattern
 - **Promoters**: The most important part is the promoters' holding.
   - Ensure that the promoters' holding is increasing, indicating confidence in the company.
+  - Ensure that the Mutual Fund' holding is increasing, indicating confidence in the company.
+  - Ensure that the Foreign investers' holding is increasing, indicating confidence in the company.
 
 ## 5. Additional Considerations
 - Consistently monitor these metrics to make informed investment decisions.
