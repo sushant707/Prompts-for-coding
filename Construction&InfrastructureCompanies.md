@@ -2,7 +2,7 @@
 
 This document provides an overview of some of the prominent construction and infrastructure companies in India, categorized by market capitalization.
 
-## Large-Cap Construction Companies
+## .... Large-Cap Construction Companies ....
 
 ### Larsen & Toubro (L&T)
 Renowned for its vast infrastructure projects, including metro systems, roads, and bridges.
@@ -19,7 +19,7 @@ Specializes in luxury residential projects and commercial real estate.
 ### Macrotech Developers (Lodha)
 Engages in residential and commercial development, with a focus on affordable housing and luxury projects.
 
-## Mid-Cap Construction Companies
+## .... Mid-Cap Construction Companies ....
 
 ### Sadbhav Engineering
 Focuses on infrastructure development, including roads and highways.
@@ -56,7 +56,9 @@ Operates in various infrastructure development projects.
 ### Shantidoot Infraservices
 Provides construction services for different infrastructure projects.
 
-## Additional Construction Companies
+
+## .... Additional Construction Companies ....
+
 
 ### Larsen & Toubro Ltd (L&T)
 
@@ -78,7 +80,9 @@ Provides construction services for different infrastructure projects.
 
 ### NBCC (India) Ltd
 
-## Infrastructure Companies
+
+## ..... Infrastructure Companies .....
+
 
 ### Larsen & Toubro Ltd (L&T)
 
@@ -100,7 +104,9 @@ Provides construction services for different infrastructure projects.
 
 ### PNC Infratech Ltd
 
-## Small Cap Infrastructure Companies
+
+## .... Small Cap Infrastructure Companies ....
+
 
 ### Ashoka Buildcon Ltd
 
@@ -120,7 +126,9 @@ Provides construction services for different infrastructure projects.
 
 ### PSP Projects Ltd
 
-## Mid Cap Infrastructure Companies
+
+## ... Mid Cap Infrastructure Companies ...
+
 
 ### IRB Infrastructure Developers Ltd
 
